@@ -1,0 +1,7 @@
+pwd - present working directory 
+ls - list all the files in the present directory
+ls -a see all hidden files 
+cd  - go to the directory
+mkdir - create folder/ directory
+rmdir- remove/delete directory
+cat - display the content of the file  
