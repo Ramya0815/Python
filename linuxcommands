@@ -1,4 +1,5 @@
 pwd - present working directory 
+cd .. - previous directory
 ls - list all the files in the present directory
 ls -a see all hidden files 
 cd  - go to the directory
